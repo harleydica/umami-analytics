@@ -41,7 +41,7 @@
       "value": "ဝက်ဘ်ဆိုဒ်ထည့်မည်"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "အက်ဒမင်"
@@ -1582,7 +1582,7 @@
   "message.visitors-dropped-off": [
     {
       "type": 0,
-      "value": "Visitors droppped off"
+      "value": "Visitors dropped off"
     }
   ]
 }

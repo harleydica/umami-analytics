@@ -41,7 +41,7 @@
       "value": "Add website"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "Administrator"
@@ -1616,7 +1616,7 @@
   "message.visitors-dropped-off": [
     {
       "type": 0,
-      "value": "Visitors droppped off"
+      "value": "Visitors dropped off"
     }
   ]
 }

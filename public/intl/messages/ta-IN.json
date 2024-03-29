@@ -41,7 +41,7 @@
       "value": "வலைத்தளத்தைச் சேர்க்க"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "நிர்வாகியைச் சேர்க்க"
@@ -1598,7 +1598,7 @@
   "message.visitors-dropped-off": [
     {
       "type": 0,
-      "value": "Visitors droppped off"
+      "value": "Visitors dropped off"
     }
   ]
 }

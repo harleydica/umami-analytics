@@ -41,7 +41,7 @@
       "value": "បន្ថែមគេហទំព័រ"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "អ្នកគ្រប់គ្រង"
@@ -1574,7 +1574,7 @@
   "message.visitors-dropped-off": [
     {
       "type": 0,
-      "value": "Visitors droppped off"
+      "value": "Visitors dropped off"
     }
   ]
 }

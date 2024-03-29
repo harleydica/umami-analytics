@@ -41,7 +41,7 @@
       "value": "웹사이트 추가"
     }
   ],
-  "label.administrator": [
+  "label.admin": [
     {
       "type": 0,
       "value": "관리자"
@@ -1578,7 +1578,7 @@
   "message.visitors-dropped-off": [
     {
       "type": 0,
-      "value": "Visitors droppped off"
+      "value": "Visitors dropped off"
     }
   ]
 }
